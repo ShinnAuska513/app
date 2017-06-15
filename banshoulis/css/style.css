@@ -1,0 +1,185 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\000031}}
+.clearfix {
+  *zoom: 1;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\000034}}
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+  height: 0;
+  line-height: 0;
+  visibility: hidden;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000312}}
+.header .header_a {
+  height: 90px;
+  width: 973px;
+  margin: 14px 19px 10px 7px;
+  position: absolute;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000318}}
+.header .header_img {
+  float: left;
+  width: 132px;
+  height: 90px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000323}}
+.header .header_meun {
+  float: left;
+  width: 841px;
+  height: 32px;
+  text-align: right;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000329}}
+.header .header_meun img {
+  margin: 3px 0 -5px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000332}}
+.header .header_meun a {
+  text-decoration: none;
+  font-family: "微软雅黑";
+  font-size: 14px;
+  font-weight: bold;
+  color: #3c3c3c;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000339}}
+.header .header_meun span {
+  font-weight: bold;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000342}}
+.header .header_meun form {
+  display: inline;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000354}}
+.header .header_daohang {
+  float: left;
+  width: 841px;
+  height: 32px;
+  margin-top: 26px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000360}}
+.header .header_daohang img {
+  margin-top: 12px;
+  margin-left: 55px;
+  position: absolute;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000365}}
+.header .header_daohang .header_daohang_a {
+  margin-top: 10px;
+  margin-left: 110px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000369}}
+.header .header_daohang .header_daohang_a a {
+  margin-left: 30px;
+  font-family: "微软雅黑";
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #3c3c3c;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000377}}
+.nav .nav_1 {
+  height: 15px;
+  margin-top: 20px;
+  position: absolute;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000382}}
+.nav .nav_1 a,
+span {
+  font-family: "微软雅黑";
+  font-size: 14px;
+  text-decoration: none;
+  color: #3c3c3c;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000390}}
+.main .main_caption {
+  margin-top: 30px;
+  width: 1000px;
+  height: 38px;
+  position: absolute;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\0000396}}
+.main .main_caption img {
+  margin: 0 auto;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\00003100}}
+.main .main_content {
+  margin-top: 98px;
+  height: 502px;
+  width: 1000px;
+  position: absolute;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\00003107}}
+.main .main_content .div1 {
+  width: 312px;
+  height: 221px;
+  float: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\00003113}}
+.main .main_content .div2 {
+  width: 312px;
+  height: 221px;
+  float: left;
+  margin-left: 31px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\00003120}}
+.main .main_content .div3 {
+  width: 312px;
+  height: 221px;
+  float: left;
+  margin-left: 31px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\00003127}}
+.main .main_content .div4 {
+  width: 312px;
+  height: 221px;
+  float: left;
+  margin-top: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\00003134}}
+.main .main_content .div5 {
+  width: 312px;
+  height: 221px;
+  float: left;
+  margin-left: 31px;
+  margin-top: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\00003142}}
+.main .main_content .div6 {
+  width: 312px;
+  height: 221px;
+  float: left;
+  margin-left: 31px;
+  margin-top: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\00003149}}
+.main .yema {
+  width: 1000px;
+  height: 20px;
+  position: absolute;
+  display: inline;
+  font-family: "微软雅黑";
+  text-align: center;
+  margin-top: 598px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\00003158}}
+.main .yema a {
+  text-decoration: none;
+  color: #737373;
+  margin-left: 5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\00003163}}
+.main .yema div {
+  width: 30px;
+  height: 20px;
+  display: inline;
+  margin: 0px 10px 0px 10px;
+  background-color: #737373;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/G\:\/Users\/ShinnAuska\.谭\/Desktop\/项目\/伴手礼\/less\/style\.less}line{font-family:\00003170}}
+.main .yema div a {
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
